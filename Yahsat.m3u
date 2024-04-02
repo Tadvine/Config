@@ -50,6 +50,9 @@ https://www.uploadbag.com/f/tl/43/f8f6c5935c53c763675bbd83b849d23e/Jangale-Asfal
 
 
 
+
+
+
 #EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://cdn.yjc.ir/files/fa/news/1402/7/1/18312678_848.jpg" group-title="پرشیانا",منوتو 
 https://dh4wkqcyy8768.cloudfront.net/live_500.m3u8
 
@@ -57,56 +60,92 @@ https://dh4wkqcyy8768.cloudfront.net/live_500.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bayanbox.ir/download/586068425955660732/unnamed.jpg" group-title="پرشیانا",اسپورت
 http://51.254.225.27/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bayanbox.ir/download/586068425955660732/unnamed.jpg" group-title="پرشیانا",کمدی
-http://51.210.199.27/hls/stream.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bayanbox.ir/download/586068425955660732/unnamed.jpg" group-title="پرشیانا",رپ
+https://raphls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bayanbox.ir/download/586068425955660732/unnamed.jpg" group-title="پرشیانا",پرشیانا یک
-http://51.210.199.21/hls/stream.m3u8
+https://euhls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bayanbox.ir/download/586068425955660732/unnamed.jpg" group-title="پرشیانا",سینما
-http://51.210.199.15/hls/stream.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bayanbox.ir/download/586068425955660732/unnamed.jpg" group-title="پرشیانا",پرشیانا دو
+https://twohls.persiana.live/hls/stream.m3u8
+
 
 #EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bayanbox.ir/download/586068425955660732/unnamed.jpg" group-title="پرشیانا",کره
-http://51.210.199.14/hls/stream.m3u8
+https://korhls.persiana.live/hls/stream.m3u8
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bayanbox.ir/download/586068425955660732/unnamed.jpg" group-title="پرشیانا",لاتینو
+https://latinohls.persiana.live/hls/stream.m3u8
+
 
 #EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bayanbox.ir/download/586068425955660732/unnamed.jpg" group-title="پرشیانا",فامیلی
-http://51.210.199.19/hls/stream.m3u8
+https://familyhls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bayanbox.ir/download/586068425955660732/unnamed.jpg" group-title="پرشیانا",ساینس
-http://51.210.199.26/hls/stream.m3u8
+
 
 #EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bayanbox.ir/download/586068425955660732/unnamed.jpg" group-title="پرشیانا",موزیک
-http://51.210.199.24/hls/stream.m3u8
+https://musichls.persiana.live/hls/stream.m3u8
+
 
 #EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bayanbox.ir/download/586068425955660732/unnamed.jpg" group-title="پرشیانا",ايرانيان 
-http://51.210.199.22/hls/stream.m3u8
+https://irhls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bayanbox.ir/download/586068425955660732/unnamed.jpg" group-title="پرشیانا",کرد
-http://51.210.199.23/hls/stream.m3u8
+
+
 
 #EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bayanbox.ir/download/586068425955660732/unnamed.jpg" group-title="پرشیانا",نوستالوژی 
-http://51.210.199.20/hls/stream.m3u8
+https://noshls.persiana.live/hls/stream.m3u8
+
 
 #EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bayanbox.ir/download/586068425955660732/unnamed.jpg" group-title="پرشیانا",سنتی
-http://51.210.199.01/hls/stream.m3u8
+https://sonhls.persiana.live/hls/stream.m3u8
+
 
 #EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bayanbox.ir/download/586068425955660732/unnamed.jpg" group-title="پرشیانا",کودک
-http://51.210.199.18/hls/stream.m3u8
+https://junhls.persiana.live/hls/stream.m3u8
 
 
 
 
 
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://persiantv.us/uploads/tv_image/ava-family.png" group-title="یاهست",AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://persiantv.us/uploads/tv_image/ava-family.png" group-title="یاهست",AVA Series
+https://avaserieshls.wns.live/hls/stream.m3u8
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://online-television.net/uploads/posts/2023-03/parnian-tv.webp" group-title="یاهست",Parmian Tv
+https://live2.parnian.tv/hls/.m3u8
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToBEShONx8mrOacNxgC2OuaQdjZHOvqJxATw&usqp=CAU" group-title="یاهست",Maah Tv
+https://hls.maahtv.live/hls/stream.m3u8
 
 
 
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="یاهست",247 Box
+https://hls.247box.live/hls/stream.m3u8
 
 
 
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="یاهست",Bravo Tv
+https://bravoohls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="یاهست",Your Time Tv
+https://hls.yourtime.live/hls/stream.m3u8
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="یاهست",Vox1 Tv
+https://hls.vox1.live/hls/stream.m3u8
 
 
 
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="یاهست",Radio javan
+http://74.115.215.41/live/smil:rjtv.smil/chunklist_w2116350404_b746000.m3u8
 
 
 
-    
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="یاهست",PMC Royal
+https://rohls.pmc.live/hls/stream.m3u8
