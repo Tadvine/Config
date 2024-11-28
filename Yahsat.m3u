@@ -1,152 +1,52 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.doostihaa.com/img/uploads/2023/03/Film-Fosil.jpg" group-title="فیلم ایرانی",فسیل
-https://www.uploadbag.com/f/tl/2/8416479f2b59fd4d04c92d30be9d117a/Fosil.mp4
-
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.doostihaa.com/img/uploads/2024/01/Beach-Villa-Movie.jpg" group-title="فیلم ایرانی",ویلای ساحلی 
-https://www.uploadbag.com/f/tl/58/eb77ec2a6075e6c8188689c4884dd272/Vilaye-Sahely.mp4
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.doostihaa.com/img/uploads/2024/03/Occasion-TV-Series.jpg" group-title="سریال ایرانی",اکازیون قسمت اول 
-https://www.uploadbag.com/f/tl/8/9c46b025ce71c509addde2318c4fa54e/Occasion-01.mp4
-
-
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.doostihaa.com/img/uploads/2024/03/Occasion-TV-Series.jpg" group-title="سریال ایرانی",اکازیون قسمت دوم 
-https://www.uploadbag.com/f/tl/66/c271480509f8d11b60a949fd33a336d9/Occasion-02.mp4
-
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.doostihaa.com/img/uploads/2024/03/Occasion-TV-Series.jpg" group-title="سریال ایرانی",اکازیون قسمت سوم 
-https://www.uploadbag.com/f/tl/66/c271480509f8d11b60a949fd33a336d9/Occasion-02.mp4
-
-
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.doostihaa.com/img/uploads/2024/03/Shab-Ahangi-S02E07.jpg" group-title="سریال ایرانی",شب آهنگی قسمت هفتم 
-https://www.uploadbag.com/f/tl/63/400c6950d33c1490b8b78c56cf0edb31/Shabahangi-07.mp4
-
-
-
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.doostihaa.com/img/uploads/2024/03/Shab-Ahangi-S02E09.jpg" group-title="سریال ایرانی",شب آهنگی قسمت نهم 
-https://www.uploadbag.com/f/tl/47/2056c9b3344c9c7cb87ec954c2a45b4a/Shab-Ahani-09.mp4
-
-
-
-
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.doostihaa.com/img/uploads/2024/03/The-Asphalt-Jungle-Episode-01.jpg" group-title="سریال ایرانی",جنگل آسفالت قسمت اول  
-https://www.uploadbag.com/f/tl/24/8e6bdc71ae4d0207c4354038accf0b0b/Jangale-Asfalt-01.mp4
-
-
-
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.doostihaa.com/img/uploads/2024/03/The-Asphalt-Jungle-Episode-02.jpg" group-title="سریال ایرانی",جنگل آسفالت قسمت دوم  
-https://www.uploadbag.com/f/tl/43/f8f6c5935c53c763675bbd83b849d23e/Jangale-Asfalt-02.mp4
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://cdn.yjc.ir/files/fa/news/1402/7/1/18312678_848.jpg" group-title="پرشیانا",منوتو 
-https://dh4wkqcyy8768.cloudfront.net/live_500.m3u8
-
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bayanbox.ir/download/586068425955660732/unnamed.jpg" group-title="پرشیانا",اسپورت
-http://51.254.225.27/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bayanbox.ir/download/586068425955660732/unnamed.jpg" group-title="پرشیانا",رپ
+#EXTINF:0,پرشیانا رپ
 https://raphls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bayanbox.ir/download/586068425955660732/unnamed.jpg" group-title="پرشیانا",پرشیانا یک
-https://euhls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bayanbox.ir/download/586068425955660732/unnamed.jpg" group-title="پرشیانا",پرشیانا دو
+#EXTINF:0,پرشیانا دو
 https://twohls.persiana.live/hls/stream.m3u8
 
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bayanbox.ir/download/586068425955660732/unnamed.jpg" group-title="پرشیانا",کره
+#EXTINF:0,پرشیانا کره
 https://korhls.persiana.live/hls/stream.m3u8
 
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bayanbox.ir/download/586068425955660732/unnamed.jpg" group-title="پرشیانا",لاتینو
+#EXTINF:0,پرشیانا لاتینو
 https://latinohls.persiana.live/hls/stream.m3u8
 
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bayanbox.ir/download/586068425955660732/unnamed.jpg" group-title="پرشیانا",فامیلی
+#EXTINF:0,پرشینا فامیلی
 https://familyhls.persiana.live/hls/stream.m3u8
 
-
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bayanbox.ir/download/586068425955660732/unnamed.jpg" group-title="پرشیانا",موزیک
-https://musichls.persiana.live/hls/stream.m3u8
-
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bayanbox.ir/download/586068425955660732/unnamed.jpg" group-title="پرشیانا",ايرانيان 
+#EXTINF:0,پرشیانا ایرانیان
 https://irhls.persiana.live/hls/stream.m3u8
 
 
-
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bayanbox.ir/download/586068425955660732/unnamed.jpg" group-title="پرشیانا",نوستالوژی 
+##EXTINF:0,پرشیانا نوستالژی 
 https://noshls.persiana.live/hls/stream.m3u8
 
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bayanbox.ir/download/586068425955660732/unnamed.jpg" group-title="پرشیانا",سنتی
+#EXTINF:0,پرشیانا سنتی
 https://sonhls.persiana.live/hls/stream.m3u8
 
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://bayanbox.ir/download/586068425955660732/unnamed.jpg" group-title="پرشیانا",کودک
+#EXTINF:0,پرشیانا کودک
 https://junhls.persiana.live/hls/stream.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://persiantv.us/uploads/tv_image/ava-family.png" group-title="یاهست",AVA Family
+#EXTINF:0,AVA Family
 https://familyhls.avatv.live/hls/stream.m3u8
 
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://persiantv.us/uploads/tv_image/ava-family.png" group-title="یاهست",AVA Series
+#EXTINF:0,AVA Series
 https://avaserieshls.wns.live/hls/stream.m3u8
 
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://online-television.net/uploads/posts/2023-03/parnian-tv.webp" group-title="یاهست",Parmian Tv
-https://live2.parnian.tv/hls/.m3u8
-
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToBEShONx8mrOacNxgC2OuaQdjZHOvqJxATw&usqp=CAU" group-title="یاهست",Maah Tv
+#EXTINF:0,Maah Tv
 https://hls.maahtv.live/hls/stream.m3u8
 
-
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="یاهست",247 Box
+#EXTINF:0,247 Box
 https://hls.247box.live/hls/stream.m3u8
 
-
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="یاهست",Bravo Tv
+#EXTINF:0,4u Tv
 https://bravoohls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="یاهست",Your Time Tv
+#EXTINF:0,Your Time Tv
 https://hls.yourtime.live/hls/stream.m3u8
 
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="یاهست",Vox1 Tv
+#EXTINF:0,Vox1 Tv
 https://hls.vox1.live/hls/stream.m3u8
 
-
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="یاهست",Radio javan
-http://74.115.215.41/live/smil:rjtv.smil/chunklist_w2116350404_b746000.m3u8
-
-
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="یاهست",PMC Royal
+#EXTINF:0,PMC Royal
 https://rohls.pmc.live/hls/stream.m3u8
